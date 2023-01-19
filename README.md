@@ -1,3 +1,3 @@
-<H1> Kod źródłowy bombapl.github.io </h1>
+<H1> Kod źródłowy <a href="https://bombapl.github.io">bombapl.github.io</a> </h1>
 
 I to chyba tyle
